@@ -1,0 +1,46 @@
+html {
+    box-sizing: border-box;
+}
+body {
+    background-color:rgb(83, 83, 155);
+}
+header {
+    text-align: center;
+    background-color: purple;
+    color: #ffffff;
+}
+.inplace {
+    padding: 1em 4em;
+    position: static;
+}
+img {
+    display: block;
+    margin: 2% auto;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    border-radius: 15px;
+    outline: none;
+}
+
+.btn {
+    display: block;
+    margin: 2% auto;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    border-radius: 15px;
+    outline: none;
+}
+p {
+    display: block;
+    margin: 2% auto;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    border-radius: 15px;
+    outline: none;
+}
+#fotter {
+    background-color:rgb(175, 175, 175);
+    padding: 20px;
+    text-align: center;
+
+}
